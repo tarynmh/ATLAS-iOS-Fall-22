@@ -9,3 +9,6 @@ I have a few ideas for making an app! Since this will be my first app with Swift
 
 ## APIS
 For all of my ideas, I don't have any particular APIs I can think of at this moment. I'm sure there may be some visual feature-related APIs I'd like to utilize with a game, and I may use existing Calendar APIs if I decide on the scheduling app (e.g. for users to import their availability).
+
+## UI/UX Criticism
+[Link to Video](https://www.youtube.com/watch?v=HwlW8_EoEKA)
