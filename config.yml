@@ -1,8 +1,6 @@
-project: GameApp
-personal_project: GameApp
 name: Taryn Hovenkamp
 repo_names:
-  - GameApp
+  - DreamJournal
 11-models-from-data: 
   - https://github.com/tarynmh/ATLAS-iOS-Fall-22/tree/main/ModelsTest
 
