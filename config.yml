@@ -1,6 +1,7 @@
 name: Taryn Hovenkamp
 repo_names:
   - DreamJournal
+  - SweetDreams
 11-models-from-data: 
   - https://github.com/tarynmh/ATLAS-iOS-Fall-22/tree/main/ModelsTest
 
